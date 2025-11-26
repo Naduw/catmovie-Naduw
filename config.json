@@ -1,0 +1,648 @@
+[
+  {
+    "id": "MyDrive",
+    "name": "🗂我的云盘┃我配置",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_MyDriveGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "玩偶",
+    "name": "👽玩偶哥哥┃4K弹幕",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_WoGGGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "YGP",
+    "name": "🚀叨观荐影┃预告片",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_YGPGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "alllive",
+    "name": "📽️一直播┃直播",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AllliveGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "seed",
+    "name": "💡聚剧剧┃三盘",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_SeedhubGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "立播",
+    "name": "🌟立播┃秒播",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_LibvioGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "厂长",
+    "name": "📔厂长┃秒播",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_NewCzGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "苹果",
+    "name": "🍎苹果┃秒播",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_LiteAppleGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "文采",
+    "name": "💮文采┃秒播",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_JpysGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "原创",
+    "name": "☀原创┃秒播",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_YCyzGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "比特",
+    "name": "🍄比特┃秒播",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_BttwooGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "热播",
+    "name": "📺热播┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AppTTGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "剧圈",
+    "name": "🐻剧圈┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AppSxGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "下饭",
+    "name": "🍙下饭┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AppSxGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "鲸鱼",
+    "name": "👀鲸鱼┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AppSxGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "红豆",
+    "name": "🍊红豆┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AppSxGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "欢视",
+    "name": "👓欢视┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AppTTGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "糯米",
+    "name": "🍓糯米┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AppSxGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "奥特",
+    "name": "🏝奥特┃多线",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_AueteGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "荐片",
+    "name": "🐭荐片┃P2P",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_JPJGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "新6V",
+    "name": "🧲新6V┃磁力",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_SixVGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "Dm84",
+    "name": "🚌巴士┃动漫",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_Dm84Guard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "Anime1",
+    "name": "🐾日本┃动漫",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_Anime1Guard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "抠搜",
+    "name": "🍄抠抠┃搜搜",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_KkSsGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "UC",
+    "name": "🌈优汐┃搜搜",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_UuSsGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "YiSo",
+    "name": "😹易搜┃三盘",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_YiSoGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "米搜",
+    "name": "🦋米搜┃优夸",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_MIPanSoGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "xzso",
+    "name": "👻盘他┃夸父",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_XzsoGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "YpanSo",
+    "name": "🐟盘她┃夸父",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_YpanSoGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "push_agent",
+    "name": "🛴手机┃推送",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_PushGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "Bili",
+    "name": "🅱哔哔合集┃弹幕",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_BiliGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "Biliych",
+    "name": "🅱哔哔演唱会┃弹幕",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_BiliGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "fan",
+    "name": "导航 www.饭太硬.com",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_XPathGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  },
+  {
+    "id": "cc",
+    "name": "请勿相信视频中广告",
+    "type": 1,
+    "logo": "",
+    "desc": "",
+    "nsfw": false,
+    "status": true,
+    "api": "csp_XPathGuard",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 20,
+      "jiexiUrl": "",
+      "category": "",
+      "js": {},
+      "template": "",
+      "sniffer": {}
+    }
+  }
+]
