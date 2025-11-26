@@ -1,648 +1,947 @@
-[
-  {
-    "id": "MyDrive",
-    "name": "🗂我的云盘┃我配置",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_MyDriveGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "玩偶",
-    "name": "👽玩偶哥哥┃4K弹幕",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_WoGGGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "YGP",
-    "name": "🚀叨观荐影┃预告片",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_YGPGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "alllive",
-    "name": "📽️一直播┃直播",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AllliveGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "seed",
-    "name": "💡聚剧剧┃三盘",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_SeedhubGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "立播",
-    "name": "🌟立播┃秒播",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_LibvioGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "厂长",
-    "name": "📔厂长┃秒播",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_NewCzGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "苹果",
-    "name": "🍎苹果┃秒播",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_LiteAppleGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "文采",
-    "name": "💮文采┃秒播",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_JpysGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "原创",
-    "name": "☀原创┃秒播",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_YCyzGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "比特",
-    "name": "🍄比特┃秒播",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_BttwooGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "热播",
-    "name": "📺热播┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AppTTGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "剧圈",
-    "name": "🐻剧圈┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AppSxGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "下饭",
-    "name": "🍙下饭┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AppSxGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "鲸鱼",
-    "name": "👀鲸鱼┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AppSxGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "红豆",
-    "name": "🍊红豆┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AppSxGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "欢视",
-    "name": "👓欢视┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AppTTGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "糯米",
-    "name": "🍓糯米┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AppSxGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "奥特",
-    "name": "🏝奥特┃多线",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_AueteGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "荐片",
-    "name": "🐭荐片┃P2P",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_JPJGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "新6V",
-    "name": "🧲新6V┃磁力",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_SixVGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "Dm84",
-    "name": "🚌巴士┃动漫",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_Dm84Guard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "Anime1",
-    "name": "🐾日本┃动漫",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_Anime1Guard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "抠搜",
-    "name": "🍄抠抠┃搜搜",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_KkSsGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "UC",
-    "name": "🌈优汐┃搜搜",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_UuSsGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "YiSo",
-    "name": "😹易搜┃三盘",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_YiSoGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "米搜",
-    "name": "🦋米搜┃优夸",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_MIPanSoGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "xzso",
-    "name": "👻盘他┃夸父",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_XzsoGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "YpanSo",
-    "name": "🐟盘她┃夸父",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_YpanSoGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "push_agent",
-    "name": "🛴手机┃推送",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_PushGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "Bili",
-    "name": "🅱哔哔合集┃弹幕",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_BiliGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "Biliych",
-    "name": "🅱哔哔演唱会┃弹幕",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_BiliGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "fan",
-    "name": "导航 www.饭太硬.com",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_XPathGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  },
-  {
-    "id": "cc",
-    "name": "请勿相信视频中广告",
-    "type": 1,
-    "logo": "",
-    "desc": "",
-    "nsfw": false,
-    "status": true,
-    "api": "csp_XPathGuard",
-    "extra": {
-      "gfw": false,
-      "searchLimit": 20,
-      "jiexiUrl": "",
-      "category": "",
-      "js": {},
-      "template": "",
-      "sniffer": {}
-    }
-  }
-]
+{
+    "sites": [
+        {
+            "id": "MyDrive",
+            "name": "🗂我的云盘┃我配置",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_MyDriveGuard",
+            "extra": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "changeable": 0,
+                "indexs": 0,
+                "searchable": 1,
+                "style": {
+                    "type": "oval"
+                }
+            }
+        },
+        {
+            "id": "玩偶",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_WoGGGuard",
+            "extra": {
+                "timeout": 30,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "YGP",
+            "name": "🚀叨观荐影┃预告片",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_YGPGuard",
+            "extra": {
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "alllive",
+            "name": "📽️一直播┃直播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AllliveGuard",
+            "extra": {
+                "playerType": 2,
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "seed",
+            "name": "💡聚剧剧┃三盘",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_SeedhubGuard",
+            "extra": {
+                "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "indexs": 0,
+                "style": {
+                    "type": "list"
+                }
+            }
+        },
+        {
+            "id": "立播",
+            "name": "🌟立播┃秒播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_LibvioGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "厂长",
+            "name": "📔厂长┃秒播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_NewCzGuard",
+            "extra": {
+                "timeout": 10,
+                "playerType": 2,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "苹果",
+            "name": "🍎苹果┃秒播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_LiteAppleGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "文采",
+            "name": "💮文采┃秒播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_JpysGuard",
+            "extra": {
+                "timeout": 10,
+                "playerType": 2,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "原创",
+            "name": "☀原创┃秒播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_YCyzGuard",
+            "extra": {
+                "timeout": 15,
+                "playerType": 1,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "比特",
+            "name": "🍄比特┃秒播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BttwooGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AppTTGuard",
+            "extra": {
+                "timeout": 10,
+                "playerType": 2,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext": "uqGL1bNENExT7/hGxpSE5qU="
+            }
+        },
+        {
+            "id": "剧圈",
+            "name": "🐻剧圈┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AppSxGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext": "rfOb1uAWbkRHp7hdxprGv+T3siLQwtXglSghatTiFVdOcF8X8jEp+aRrf/FNw9F962OYcJdY2CMy/nlgFeo4R9+I8K2FSnLnGP2FxOijR2T52RQ6NwQWv5XyDxPxRcMHTslu7SYeFlb8EuDsyEz4Dg=="
+            }
+        },
+        {
+            "id": "下饭",
+            "name": "🍙下饭┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AppSxGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
+            }
+        },
+        {
+            "id": "鲸鱼",
+            "name": "👀鲸鱼┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AppSxGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
+            }
+        },
+        {
+            "id": "红豆",
+            "name": "🍊红豆┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AppSxGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+            }
+        },
+        {
+            "id": "欢视",
+            "name": "👓欢视┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AppTTGuard",
+            "extra": {
+                "timeout": 10,
+                "playerType": 2,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext": "uqGL1bNENExT9fFAy5mE5qU="
+            }
+        },
+        {
+            "id": "糯米",
+            "name": "🍓糯米┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AppSxGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext": "rfOX1voDIQhH8epBwtCFsuPz+Gqemoi6lWBjO9WjCB9RMwhf0wct5v5AZOR3ieFbjE+ndoJe"
+            }
+        },
+        {
+            "id": "奥特",
+            "name": "🏝奥特┃多线",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_AueteGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "荐片",
+            "name": "🐭荐片┃P2P",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_JPJGuard",
+            "extra": {
+                "timeout": 10,
+                "playerType": 2,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "新6V",
+            "name": "🧲新6V┃磁力",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_SixVGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "ext": "https://www.xb6v.com/"
+            }
+        },
+        {
+            "id": "Dm84",
+            "name": "🚌巴士┃动漫",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_Dm84Guard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "Anime1",
+            "name": "🐾日本┃动漫",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_Anime1Guard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1
+            }
+        },
+        {
+            "id": "抠搜",
+            "name": "🍄抠抠┃搜搜",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_KkSsGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "UC",
+            "name": "🌈优汐┃搜搜",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_UuSsGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "YiSo",
+            "name": "😹易搜┃三盘",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_YiSoGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto",
+                "yisouCookie": "150e5bb8-401e-4f1f-b74e-7fd5f8bd6dea"
+            }
+        },
+        {
+            "id": "米搜",
+            "name": "🦋米搜┃优夸",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_MIPanSoGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "xzso",
+            "name": "👻盘他┃夸父",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_XzsoGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "YpanSo",
+            "name": "🐟盘她┃夸父",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_YpanSoGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "push_agent",
+            "name": "🛴手机┃推送",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_PushGuard",
+            "extra": {
+                "searchable": 0,
+                "quickSearch": 0,
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "id": "Bili",
+            "name": "🅱哔哔合集┃弹幕",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BiliGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 1,
+                "quickSearch": 0,
+                "changeable": 0,
+                "ext": {
+                    "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+                }
+            }
+        },
+        {
+            "id": "Biliych",
+            "name": "🅱哔哔演唱会┃弹幕",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BiliGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 1,
+                "quickSearch": 0,
+                "changeable": 0,
+                "ext": {
+                    "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+                }
+            }
+        },
+        {
+            "id": "fan",
+            "name": "导航 www.饭太硬.com",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_XPathGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "cc",
+            "name": "请勿相信视频中广告",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_XPathGuard",
+            "extra": {
+                "searchable": 1,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "超全",
+            "name": "⚽超全┃看球",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_ZbzGuard",
+            "extra": {
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0,
+                "style": {
+                    "type": "list"
+                },
+                "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+            }
+        },
+        {
+            "id": "88",
+            "name": "⚽88┃看球",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_Sir88Guard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 0,
+                "changeable": 0,
+                "style": {
+                    "type": "list"
+                }
+            }
+        },
+        {
+            "id": "看球",
+            "name": "⚽手机┃看球",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_KanqiuGuard",
+            "extra": {
+                "timeout": 10,
+                "searchable": 0,
+                "changeable": 0,
+                "style": {
+                    "type": "list"
+                }
+            }
+        },
+        {
+            "id": "MTV1",
+            "name": "🎙️易听┃音乐",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_MusicGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1
+                },
+                "searchable": 1,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "MTV",
+            "name": "🎶明星┃MV",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BiliGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0,
+                "ext": {
+                    "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+                }
+            }
+        },
+        {
+            "id": "有声小说",
+            "name": "🎧有声┃小说",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_Tingshu275Guard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1
+                },
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "Aid",
+            "name": "🚑急救┃教学",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_FirstAidGuard",
+            "extra": {
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0,
+                "style": {
+                    "type": "rect",
+                    "ratio": 3.8
+                }
+            }
+        },
+        {
+            "id": "虎牙直播js",
+            "name": "🐯虎牙┃直播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
+            "extra": {
+                "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.755
+                },
+                "timeout": 10,
+                "playerType": "2",
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "斗鱼js",
+            "name": "🐟斗鱼┃直播",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "extra": {
+                "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.755
+                },
+                "timeout": 10,
+                "playerType": "2",
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "dr_兔小贝",
+            "name": "📚儿童┃启蒙",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "extra": {
+                "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        },
+        {
+            "id": "少儿教育",
+            "name": "📚少儿┃教育",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BiliGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0,
+                "ext": {
+                    "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d7178d4ed1bda.txt"
+                }
+            }
+        },
+        {
+            "id": "小学课堂",
+            "name": "📚小学┃课堂",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BiliGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0,
+                "ext": {
+                    "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
+                }
+            }
+        },
+        {
+            "id": "初中课堂",
+            "name": "📚初中┃课堂",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BiliGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0,
+                "ext": {
+                    "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
+                }
+            }
+        },
+        {
+            "id": "高中教育",
+            "name": "📚高中┃课堂",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_BiliGuard",
+            "extra": {
+                "style": {
+                    "type": "rect",
+                    "ratio": 1.597
+                },
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0,
+                "ext": {
+                    "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
+                }
+            }
+        },
+        {
+            "id": "豆",
+            "name": "原公众号已寄，新号【太太太硬了】",
+            "type": 3,
+            "logo": "",
+            "desc": "",
+            "nsfw": false,
+            "status": true,
+            "api": "csp_DouDouGuard",
+            "extra": {
+                "indexs": 1,
+                "searchable": 0,
+                "quickSearch": 0,
+                "changeable": 0
+            }
+        }
+    ],
+    "data": [],
+    "lives": [
+        {
+            "name": "冰茶",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1(mianfeifenxiang)"
+        },
+        {
+            "name": "develop202",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "范明明（需开启V6网络）",
+            "type": 0,
+            "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "虎牙一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0"
+        },
+        {
+            "name": "斗鱼一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0"
+        },
+        {
+            "name": "B站直播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0"
+        },
+        {
+            "name": "YY轮播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.4.0.0"
+        }
+    ]
+}
